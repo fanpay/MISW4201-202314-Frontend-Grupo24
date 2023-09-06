@@ -29,6 +29,8 @@ jobs:
         node-version: '16'
     - name: Install dependencies
       run: npm install
+    - name: Install angular
+      run: npm install -g @angular/cli@latest
     - name: Ejecutar build
       id: ejecutar-build
       run: |
