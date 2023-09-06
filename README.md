@@ -6,7 +6,7 @@ Integrantes
 - Fabián Andrés Payan Meneses - Scrum Master
 - Johana Constanza Ojeda Ávila - Desarrollador
 - Esneider Velandia Gonzalez - Desarrollador
-- TESTING
+- TESTING 1
  
 ## Reporte
 [GitInspector](https://misw-4201-procesosdesarrolloagil.github.io/MISW4201-202314-Frontend-Grupo24/reports)
