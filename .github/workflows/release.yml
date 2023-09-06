@@ -58,7 +58,7 @@ jobs:
     - name: Install dependencies
       run: npm install
     - name: Ejecutar build
-      id: correr-pruebas
+      id: ejecutar-build
       run: |
           ng build
     - name:  Ejecutar pruebas y cubrimiento personalizado
