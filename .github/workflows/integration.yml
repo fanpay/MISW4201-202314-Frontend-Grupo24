@@ -38,7 +38,7 @@ jobs:
     - name:  Ejecutar pruebas y cubrimiento personalizado
       id: correr-pruebas
       run: |
-          ng test --watch=false --code-coverage --source-map true
+          ng test --watch=false --code-coverage --source-map true --browsers ChromeHeadless
            
   automerge:
     name: Mezclar rama feature en rama principal
